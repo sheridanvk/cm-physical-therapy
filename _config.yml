@@ -3,30 +3,30 @@ theme: alembic-jekyll-theme
 
 # File excludes
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
-- netlify.toml
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - netlify.toml
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+url: "https://cmphysicaltherapy.com"
+baseurl: ""
+title: "Christine Meizoso Physical Therapy"
+description: "This is my new website"
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "./images/CM_logo.png"
 
 # Pagination
 paginate: 5
@@ -34,17 +34,19 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+  - title: Home
+    url: /
+  - title: Conditions we treat
+    url: /conditions-we-treat/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+  - title: Back to top
+    url: "#top"
 
 # Collections
 collections:
@@ -58,14 +60,12 @@ collections:
 
 # Collection settings
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: post # Set the default layout for posts
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
