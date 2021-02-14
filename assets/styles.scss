@@ -1,0 +1,31 @@
+---
+---
+
+@import "alembic";
+
+.feature .container {
+  max-width: 75%;
+}
+
+.typeset table tr {
+  display: flex;
+  flex-direction: column;
+}
+
+.google-maps-iframe {
+  width: 95%;
+  max-width: 600px;
+}
+
+@media only screen and (min-width: 40em) {
+  .content {
+    width: 70%;
+  }
+  .typeset table tr {
+    display: table-row;
+  }
+
+  .typeset table td {
+    padding: 0 5px;
+  }
+}
