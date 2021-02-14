@@ -21,11 +21,11 @@ E: christine@cmphysicaltherapy.com
 
 ### Office Hours
 
-M 11-730pm\
-T 7-730pm\
-W 7-730pm\
-Th 7-730pm\
-Fr 7-3pm
+M: 11am - 7:30pm\
+T: 7am - 7:30pm\
+W: 7am - 7:30pm\
+Th: 7am - 7:30pm\
+Fr: 7am - 3pm
 
 ### Cancellation Policy
 
