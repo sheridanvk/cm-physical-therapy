@@ -1,5 +1,6 @@
 ---
-title: About this website
+title: About
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Christine is awesome. Make an appointment. Or she’ll find you.
+![Headshot of Christine Meizoso](/assets/images/christine_meizoso.JPG)
