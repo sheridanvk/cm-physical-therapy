@@ -1,6 +1,6 @@
 ---
 title: Welcome
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/images/christine_backdrop.jpg"
 feature_text: |
   ## Christine Meizoso Physical Therapy
 ---
