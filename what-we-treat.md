@@ -20,4 +20,4 @@ We can help you with any of the following concerns:
 
 ---
 
-Please contact us for more information at christine@cmphysicaltherapy.com if your concern doesn’t appear on this list.
+Please contact us for more information at [christine@cmphysicaltherapy.com](mailto:christine@cmphysicaltherapy.com) if your concern doesn’t appear on this list.
