@@ -1,4 +1,4 @@
-# Christine Meizoso Physical Therapy
+# Physical Therapy Website
 
 This is a Jekyll site deployed to Netflify, based on the excellent [Alembic theme](https://github.com/daviddarnes/alembic-kit) with some styles overridden.
 
