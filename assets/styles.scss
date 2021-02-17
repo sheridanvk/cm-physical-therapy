@@ -3,8 +3,13 @@
 
 @import "alembic";
 
+.feature {
+  background-position: right bottom;
+}
+
 .feature .container {
   max-width: 75%;
+  min-height: 275px;
 }
 
 .typeset table tr {
