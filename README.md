@@ -1,9 +1,5 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+# Physical Therapy Website
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
+This is a Jekyll site deployed to Netflify, based on the excellent [Alembic theme](https://github.com/daviddarnes/alembic-kit) with some styles overridden.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
-
-or
-
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+Thanks to Simon Berger on Unsplash for the [cover image](https://unsplash.com/photos/twukN12EN7c)
