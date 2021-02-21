@@ -10,9 +10,10 @@ We can help you with any of the following concerns:
 | ACL Reconstruction | Bursitis |
 | Chronic Pain | Carpal Tunnel |
 | Disc Injuries (bulging/herniated) | Joint Pain |
-| Low Back Pain | Muscle Tears/Strains |
-| Neck Pain | Nerve Entrapment/Impingement |
-| Patellofemoral Syndrome | Plantar Fasciitis |
+| Joint Replacement | Low Back Pain |
+| Muscle Tears/Strains | Neck Pain |
+| Nerve Entrapment/Impingement | Patellofemoral Syndrome | 
+| Plantar Fasciitis | Pregnancy Pain |
 | Repetitive Stress Injuries | Scar Tissue/Adhesions |
 | Sciatica | Scoliosis |
 | Shoulder Impingement | Tendonitis |
