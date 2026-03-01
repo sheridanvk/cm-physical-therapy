@@ -13,7 +13,7 @@ Suite 401\
 420 Lexington Avenue\
 New York, NY 10170
 
-P: 646 893 9764\
+P: 347-767-7382\
 F: 917 398 7874\
 E: [christine@cmphysicaltherapy.com](mailto:christine@cmphysicaltherapy.com)
 
